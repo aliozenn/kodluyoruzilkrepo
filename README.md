@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası bir adetde index.html dosyası barındırıyor.
+Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası bir adet index.html dosyası barındırıyor.
 ## Installation
 öncelikle projeyi clonelayın. (https://github.com/aliozenn/kodluyoruzilkrepo.git)
 
