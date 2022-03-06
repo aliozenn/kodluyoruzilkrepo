@@ -16,3 +16,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 MIT
+![resim için tıklayınız](https://github.com/aliozenn/kodluyoruzilkrepo/blob/main/1.PNG)
+
