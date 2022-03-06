@@ -15,7 +15,9 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-MIT
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 ![resim için tıklayınız](https://github.com/aliozenn/kodluyoruzilkrepo/blob/main/1.PNG)
